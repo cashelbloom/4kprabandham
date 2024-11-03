@@ -1,0 +1,14 @@
+/* @media (prefers-reduced-motion: reduce) {
+    /* in case the .header element has an animation, turn it off */
+    /* .header {
+      animation: normal;
+    }
+  }  */
+
+.carousel-item {
+    height: 60%;
+    animation: normal;
+    width: 30%;
+    border-radius: 80%;
+    margin: 5px;  
+}
